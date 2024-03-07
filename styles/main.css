@@ -11,7 +11,7 @@
 :root {
   font-family: sans-serif;
   background-color: #f2efea;
-  color: black;
+  color: rgb(60, 24, 61);
 }
 
 body {
@@ -31,11 +31,11 @@ h1 {
   font-size: 4em;
   font-weight: 900;
   text-shadow: 0.02em 0.04em #403d58;
-  color: deeppink;
+  color: rgb(54, 179, 184);
 }
 
 h2 {
-  border-bottom: 0.1em solid #66d7d1;
+  border-bottom: 0.1em solid #296431;
   padding: 0.25em;
   margin: 1.6em 0;
 }
@@ -45,7 +45,7 @@ section p {
 }
 
 .project {
-  background-color: #403d58;
+  background-color: #1f462f;
   color: #f2efea;
   padding: 0.5em 2em;
   border-radius: 0.5em;
@@ -53,7 +53,7 @@ section p {
 }
 
 .project h3 {
-  color: #dbd563;
+  color: #36f14f;
   margin-top: 1rem;
   margin-left: 2em;
   margin-right: 2em;
